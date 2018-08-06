@@ -1,0 +1,22 @@
+{
+  "name": "jinlai_api",
+  "version": "1.0.0",
+  "description": "jinlai chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "chat",
+    "jinlai",
+    "server"
+  ],
+  "author": "huangxin",
+  "license": "ISC",
+  "dependencies": {
+    "forever": "^0.15.3",
+    "mysql": "^2.15.0",
+    "redis": "^2.8.0",
+    "ws": "^5.2.2"
+  }
+}

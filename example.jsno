@@ -1,0 +1,12 @@
+{user_id : 19, type:"text", content:"我是黄鑫啊", time_create:"1568974151_19"}
+
+ws.send('{"user_id":267,"type":"text","content":"小bitch", "time_create":"1588876977"}')
+
+ws.send('{"s_user_id" : 22,"type":"read"}')
+
+ws.send('{"s_biz_id" : 2,"type":"read"}')
+
+
+
+
+ws.send('{"biz_id":6,"type":"text","content":"裹上鸡蛋液", "time_create":"1998696977"}')
